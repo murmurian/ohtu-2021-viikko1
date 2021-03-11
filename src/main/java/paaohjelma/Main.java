@@ -15,5 +15,20 @@ public class Main {
         mehua.lisaaVarastoon(-666.0);
         double saatiin = olutta.otaVarastosta(1000.0);
         saatiin = mehua.otaVarastosta(-32.9);
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
+        System.out.println("RIKOTAAN CHECKSTYLE!!!");
     }
 }
